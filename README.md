@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Amarachi Udo-Obia Omereife - [Github](https://github.com/marameref) / [Twitter](https://twitter.com/marameref)  
-Anwulika Mordi - [Github](https://github.com/anwulika-1) 
+Muhammed Abdelnaser - [Github](https://github.com/) 
+Jonathan Bangala - [Github](https://github.com/JBproduction10) 
 
 ## License
 Public Domain. No copy write protection. 
